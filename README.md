@@ -15,5 +15,6 @@ to test the project follow these steps:
 7. run the file 'train.py', this code will produce the transfer values of the MURA dataset using one or more of the pretrained models, the default is all three pretrained models. if more than one pretrained model is used, the result of the pretrained models of each image are concatenated, the final result will then be cached to pkl files, this might take a long time depending on your hardware.
 8. run the file 'evaluateMURA.py', this file will use the produced pkl files in order to evaluate the training data using the validation data. 
 
-a sample of the result by using the mobilenet and the inception models on the validation data.
+A sample of the result by using the mobilenet and the inception models on the validation data:
+
 ![alt text](https://github.com/goodking159/MURA-Classification/blob/master/Confusion%20Matrix.png "Confusion Matrix")
