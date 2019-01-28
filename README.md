@@ -16,4 +16,4 @@ to test the project follow these steps:
 8. run the file 'evaluateMURA.py', this file will use the produced pkl files in order to evaluate the training data using the validation data. 
 
 a sample of the result by using the mobilenet and the inception models on the validation data.
-![alt text](MURA-Classification/Confusion Matrix.png "Confusion Matrix")
+![alt text](https://github.com/goodking159/MURA-Classification/blob/master/Confusion%20Matrix.png "Confusion Matrix")
